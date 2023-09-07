@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RoboCosmicShop/static/css/main.6d6c1628.css",
+    "main.js": "/RoboCosmicShop/static/js/main.1970a1eb.js",
+    "index.html": "/RoboCosmicShop/index.html",
+    "main.6d6c1628.css.map": "/RoboCosmicShop/static/css/main.6d6c1628.css.map",
+    "main.1970a1eb.js.map": "/RoboCosmicShop/static/js/main.1970a1eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d6c1628.css",
+    "static/js/main.1970a1eb.js"
+  ]
+}
